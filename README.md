@@ -16,4 +16,4 @@ A clean, modern, and professional web dashboard that fetches real-time data from
 
 ## 📖 How to Use
 1. **Clone the project:** ```bash
-   git clone [https://github.com/YOUR_USERNAME/api-explorer-dashboard.git](https://github.com/YOUR_USERNAME/api-explorer-dashboard.git)
+git clone https://github.com/Amanmourya09/api-explorer-dashboard.git
